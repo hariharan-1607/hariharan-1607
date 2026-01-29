@@ -27,7 +27,7 @@
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,java,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb" />
 </div>
