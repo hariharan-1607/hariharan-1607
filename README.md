@@ -39,7 +39,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Personal Budget Manager](https://budgetbuddy-1617.vercel.app/)** | A comprehensive tool to track expenses and manage personal finances effectively. | React, JS, CSS |
-| **[Portfolio Website](https://portfolio-project-eight-lime.vercel.app/)** | My personal corner on the web showcasing my work and skills. | HTML, CSS, JS |
+| **[Portfolio Website](https://hari-1617-portfolio.vercel.app/)** | My personal corner on the web showcasing my work and skills. | HTML, CSS, JS |
 
 ---
 
